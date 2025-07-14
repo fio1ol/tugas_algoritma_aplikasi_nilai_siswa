@@ -14,7 +14,7 @@ tugas-algoritma-nilai-siswa/ |--- main.py |--- data_siswa.json |---  README.md |
 ## preview CLI
 contoh hasil tampilan CLI: 
 ![contoh CLI](assets/tambahan_data.png)
-##penjelasan singkat
+## penjelasan singkat
 file 'main.py' berisi logika program CLI.
 data yang di input pengguna akan disimpan sementara di memori, lalu dapat disimpan permanen ke dalam file 'data_siswa.json'.
 ---
