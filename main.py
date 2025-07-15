@@ -35,7 +35,6 @@
       "outputs": [],
       "source": [
         "# Membuat program CLI untuk Manajemen Nilai Siswa\n",
-        "# Versi sederhana namun lengkap untuk keperluan tugas\n",
         "# Fitur: tambah data siswa, lihat data, hitung rata-rata, cari nilai tertinggi/terendah, simpan ke file\n",
         "\n",
         "import json\n",
