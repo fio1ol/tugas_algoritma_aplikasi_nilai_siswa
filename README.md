@@ -6,16 +6,30 @@ program sederhana berbasis CLI (command line interface) untuk mengelola data nil
 - menghitung rata-rata nilai siswa
 - menampilkan nilai tertinggi
 - menampilkan nilai terendah
-- menyimpan data ke file
+- menyimpan data ke file 'data_siswa.json'
 ## teknologi
 menggunakan bahasa phython, CLI (command line interface), JSON untuk penyimpanan data
-## struktur file
-tugas-algoritma-nilai-siswa/ |--- main.py |--- data_siswa.json |---  README.md |--- laporan_tugas.docs/
+## cara menjalankan program
+1. jalankan file 'main.py' menggunakan phython
+2. gunakan menu yang tersedia dengan memilih angka 1-7
+3. data yang sudah dimasukkan bisa disimpan ke file 'data_siswa.json'
+## struktur folder
+main.py -----------> program utama
+
+data_siswa.json ---> data siswa
+
+assets ------------> folder untuk gambar/screenshot
+
+README.md ---------> ringkasan singkat mengenai program ini
+
+laporan_tugas -----> penjelasan dari semua pertanyaan yang ada pada soal
 ## preview CLI
 contoh hasil tampilan CLI: 
 ![contoh CLI](assets/tampilan_seluruh_data.png)
-## penjelasan singkat
-file 'main.py' berisi logika program CLI. data yang di input pengguna akan disimpan sementara di memori, lalu dapat disimpan permanen ke dalam file 'data_siswa.json'.
+## catatan tambahan
+- file 'main.py' berisi logika program CLI. data yang di input pengguna akan disimpan sementara di memori, lalu dapat disimpan permanen ke dalam file 'data_siswa.json'
+- program ini berjalan di lingkungan terminal/CLI seperti cmd, terminal linux, atau google colab (dengan input manual)
+- file 'data_siswa.json' akan terupdate setiap kali menu simpan digunakan
 ---
 ## pembuat
 nama: fio lola karmila
