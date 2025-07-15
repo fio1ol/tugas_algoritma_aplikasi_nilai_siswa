@@ -25,7 +25,7 @@ README.md ---------> ringkasan singkat mengenai program ini
 laporan_tugas -----> penjelasan dari semua pertanyaan yang ada pada soal
 ## preview CLI
 contoh hasil tampilan CLI: 
-![contoh CLI](assets/tampilan_seluruh_data.png)
+![contoh CLI](assets/menyimpan_data_dan_keluar_dari_program.png)
 ## catatan tambahan
 - file 'main.py' berisi logika program CLI. data yang di input pengguna akan disimpan sementara di memori, lalu dapat disimpan permanen ke dalam file 'data_siswa.json'
 - program ini berjalan di lingkungan terminal/CLI seperti cmd, terminal linux, atau google colab (dengan input manual)
